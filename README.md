@@ -10,9 +10,9 @@ The model used for this project is shown below. It consists of an input layer, t
 
 ## The Dataset:
 
-<img src="https://production-media.paperswithcode.com/datasets/FER2013-0000001434-01251bb8_415HDzL.jpg"/>
-
 The dataset used for this project was the FER-2013 dataset. It consists of 35,887 images, each of size 48x48 pixels. This data was split into 28,709 images (training) and 7,178 images (testing).
+
+<img src="https://production-media.paperswithcode.com/datasets/FER2013-0000001434-01251bb8_415HDzL.jpg"/>
 
 ## Training and Testing:
 
